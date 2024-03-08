@@ -1,2 +1,2 @@
 # rk_inds
-rk group of industres
+rk group of industries
